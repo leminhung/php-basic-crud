@@ -1,6 +1,8 @@
 <?php
 require_once 'config.php';
 require_once 'process.php';
+require_once 'test.php';
+// Khi thiết lập những require ở trên thì các câu lệnh sẽ luôn được load đầu tiên khi mỗi lần click :))
 ?>
 
 <!DOCTYPE html>
